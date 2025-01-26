@@ -21,5 +21,4 @@ Two simple condition :
 - Can Not Share Plugin with anyone.
 
 
-   ## More details : [Google reCAPTCHA for Login Plugin](https://community.mybb.com/thread-234332.html)
-
+## More details : [Google reCAPTCHA for Login Plugin](https://community.mybb.com/thread-234332.html)
